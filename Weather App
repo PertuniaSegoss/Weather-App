@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <body> 
+              <meta charset="UTF-8"/>
+              <meta name="viewpoint" content="width=device-width, initial scale=1.0" />
+              <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+              <title>Pertunia's Weather App</title>
+
+              <br />
+              <h1>🌦️
+                <br />
+              Currently 21 &deg;<!----> in Pretoria</h1>
+
+             <h2>20 / 4&deg;<!----></h2>
+            
+             <h3> 
+                   <button><strong>Tomorrow</strong> <Br /> 
+                    <br />
+                    🌥️21 / <strong>5</strong> &deg;<!----> <br />
+                   </button>
+
+                    <button><strong>Friday</strong> <br /> 
+                    <br />
+                    🌧️10 / <strong>22</strong> &deg;<!----> <br >
+                    </button>
+
+                   <button><strong>Saturday</strong> <br />
+                     <br />
+                     ☀️ 23 / <strong>7</strong> &deg;<!----> <br />
+                   </button>
+             </h3>
+                
+
+                <button>Change City</button>
+                        <br />
+                    
+                <p><strong>Coded by Pertunia Ndhlovu</strong></p>
+
+                <style>
+                    h1{color: rgb(122, 122, 236);
+                       text-align: center;
+                       font-size: 34px; 
+                       line-height: 48px;
+                       margin: 0%;}
+
+                        h2{text-align: center;
+                           text-transform: uppercase;
+                           }
+                        h3{text-align: center;
+                             text-transform: uppercase;
+                            font-family:Helvetica, Arial,sans-serif;
+                            color:#222831  ;
+                         }
+                         
+                     h3:hover{}
+   
+                    
+                        p{color: #ff847c;
+                           text-align: center;
+                           }
+
+                    button{text-align: center;
+                           text-transform: uppercase;
+                           padding: 20px 50px;
+                           color:hsl(4, 100%, 74%);
+                           margin: 50px auto 0 auto;
+                           display: block ;
+                           font-size: 16px;
+                           box-shadow: 5px 5px rgba(0, 0, 0, 0.3);
+                           width: 200px;
+                           border: 10% solid #122d42;
+                           border-radius: 40px;
+                           transition: all  ease-in-out;
+                            }
+
+            button:hover {background:#bee4d2 ;
+                              color: #272044;
+                              cursor: pointer;} 
+                body{background:#cdd5e0;}
+                
+                </style>
+
+        </body>
+    </head>
+</html>
