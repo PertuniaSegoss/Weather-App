@@ -10,4 +10,4 @@ The features include the following:
 
 -The page is Responsive and lightweight
 
-This is the live demo link
+This is the live demo link https://pertuniasegoss.github.io/Weather-App/
